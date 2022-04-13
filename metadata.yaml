@@ -1,0 +1,33 @@
+_repo: South-West-Africa_67656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eveleigh, William
+    birthdate: 1882
+    gutenberg_agent_id: '54379'
+    url: http://www.gutenberg.org/2009/agents/54379
+description: ''
+gutenberg_issued: '2022-03-19'
+identifiers:
+  gutenberg: '67656'
+  lccn: '16006712'
+language: en
+pgterms:marc905: 20210728195809eveleigh
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :T. Fisher Unwin, Ltd.,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Namibia'
+- GITenberg
+tableOfContents: The land -- Climate and rainfall -- The flora of the country -- The
+  fauna of the country -- The early days -- The later historical development -- The
+  German occupation -- The people of the country -- The development of the country
+  -- The diamond fields -- The economic future of the country.
+title: South-West Africa
+url: http://www.gutenberg.org/ebooks/67656
